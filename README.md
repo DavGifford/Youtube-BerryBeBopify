@@ -1,7 +1,7 @@
 
 <div align = center >
 
-# DougDougify
+# BerryBeBopify
 
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
@@ -9,7 +9,7 @@ trouble finding engaging click-baity videos?
 **Fear no more.**
 
 This extension adds the famous  
-youtuber **DougDoug** to every thumbnail.
+youtuber **DougDoug's Creative Director BerryBeBop** to every thumbnail.
 
 [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
