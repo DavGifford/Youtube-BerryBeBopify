@@ -23,9 +23,7 @@ youtuber **DougDoug's Creative Director BerryBeBop** to every thumbnail.
 
 - This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and the browser extension **[Youtube Mrbeastify][UI MrBeastify]**.
 
-- This extension is unofficial and not affiliated with BerryBebop or YouTube.
-
-- Code is based on MagicJinn's, I literally changed the images
+- This extension is unofficial and not affiliated with DougDoug or YouTube.
 
 <!-- ## Microsoft Edge <a id="microsoftedge"></a>
 
