@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
-    "name": "YouTube DougDougify",
-    "version": "1.4.0",
+    "name": "YouTube BerryBeBopify",
+    "version": "1.0.0",
     "icons": {
         "96": "icon.png"
     },
-    "description": "Modify YouTube thumbnails to include DougDoug",
+    "description": "Modify YouTube thumbnails to include BerryBeBop",
     "browser_action": {
         "default_popup": "settings.html"
     },
