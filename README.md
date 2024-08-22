@@ -6,14 +6,14 @@
 Is your browser experience boring? Are you having  
 trouble finding engaging click-baity videos?
 
-**Fear no more.**
+**Fear.**
 
 This extension adds the famous  
 youtuber **DougDoug's Creative Director BerryBeBop** to every thumbnail.
 
-[![Button Download Firefox]][Download Firefox]  
+<!-- [![Button Download Firefox]][Download Firefox]  
 [![Button Download Chrome]][Download Chrome]  
-[![Button Download Edge]][Download Edge]
+[![Button Download Edge]][Download Edge] -->
 
 </div>
 
@@ -23,9 +23,11 @@ youtuber **DougDoug's Creative Director BerryBeBop** to every thumbnail.
 
 - This extension was inspired by **[Unnecessary Inventions][UI YouTube]** and the browser extension **[Youtube Mrbeastify][UI MrBeastify]**.
 
-- This extension is unofficial and not affiliated with DougDoug or YouTube.
+- This extension is unofficial and not affiliated with BerryBebop or YouTube.
 
-## Microsoft Edge <a id="microsoftedge"></a>
+- Code is based on MagicJinn's, I literally changed the images
+
+<!-- ## Microsoft Edge <a id="microsoftedge"></a>
 
 Microsoft Edge support has been ended, and the extension has been delisted. This is because Edge is consistently the slowest at reviewing extensions, constantly rejects my submissions with vague reasons why, and are allround terrible. Download the Chrome version instead.
 
@@ -45,4 +47,4 @@ Microsoft Edge support has been ended, and the extension has been delisted. This
 [Download Edge]: #microsoftedge
 
 [UI MrBeastify]: http://github.com/MagicJinn/MrBeastify-Youtube
-[UI YouTube]: http://www.youtube.com/@UnnecessaryInventions
+[UI YouTube]: http://www.youtube.com/@UnnecessaryInventions -->
